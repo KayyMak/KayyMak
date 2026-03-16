@@ -1,5 +1,5 @@
-# Hello! 👋
-I'm Olukayode, an aspiring software engineer.
+**Hello!** 👋
+I'm Olukayode, an aspiring software engineer. 
 
 I’m currently working in backend development and learning more about software architecture
 
