@@ -1,9 +1,7 @@
 ## Hello! 👋
-# I'm Olukayode, an aspiring software engineer.
-# I’m currently working in backend development and learning more about software architecture
+I'm Olukayode, an aspiring software engineer.
 
-I'm currently working in backend development and learning new things everyday.
-
+I’m currently working in backend development and learning more about software architecture
 
 <!--
 **KayyMak/KayyMak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
